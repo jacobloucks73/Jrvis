@@ -1,6 +1,5 @@
 # app.py
 
-from chatbot_engine import ChatbotEngine
 from nlp_processor import NLPProcessor
 
 def main():
